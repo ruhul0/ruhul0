@@ -1,32 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ruhul</h1>
-<h3 align="center">Resourceful Web Developer lends hands-on approach to customizing web presence strategy. More than 5 years of experience working to outline organizational needs and translate them into extensive lines of code that support objectives. Adept creation of scripts using PHP, MySQL, NodeJS, HTML, CSS and JavaScript to convey unique branding and promote sales and marketing opportunities. Specialty supporting intricate backend needs and lending assistance throughout webpage lifecycle</h3>
+# Hi, I'm Ruhul
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhul0&label=Profile%20views&color=0e75b6&style=flat" alt="ruhul0" /> </p>
+Full stack web developer in Dhaka, Bangladesh. I build online stores and business websites, then set up the servers they run on. I've been doing this since 2020, and I use AI coding tools in my daily work.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruhul0" alt="ruhul0" /></a> </p>
+**Website:** [ruhul0.com](https://ruhul0.com) · **LinkedIn:** [in/ruhul0](https://www.linkedin.com/in/ruhul0/) · **Email:** [ruhul20@gmail.com](mailto:ruhul20@gmail.com)
 
-- 🔭 I’m currently working on [Therap BD Ltd.](https://www.therapbd.com/)
+## Open source
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, ThreeJS, GSAP**
+- **[woo-rest-headless](https://github.com/ruhul0/woo-rest-headless):** zero-dependency TypeScript SDK for headless WooCommerce, with JWT, Basic and cookie auth. Its [WordPress plugin](https://github.com/ruhul0/woo-rest-headless-plugin) adds CORS, custom REST endpoints and an API tester.
+- **[local-manager](https://github.com/ruhul0/local-manager):** Electron app for macOS that manages Nginx, multiple PHP versions, MariaDB and Redis, with one-click Laravel and WordPress setup.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ruhul0](https://github.com/ruhul0)
+## Live projects
 
-- 💬 Ask me about **PHP, MySQL**
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [NSO Products](https://nsoproducts.com/) | Headless e-commerce store | Custom WordPress API, Ubuntu and Nginx VPS |
+| [Glow More](https://glowmore.org/) | Skincare store with cash on delivery | Next.js, Go |
+| [VIP Sports & Fitness](http://demo.vipsportsbd.com/) | Fitness equipment store with 500+ products | Next.js, Go |
+| [OSHC.io](https://oshc.io/) | Quote comparison for Australian student health cover | Laravel, Alpine.js, Vite |
+| [Macron Worldwide](https://macronworldwide.com/) | Study abroad consultancy website | Next.js |
+| [UCC BD](https://www.ucc.com.bd/) | Store for a national tech distributor | OpenCart |
+| [UCC Scan & Win](https://campaign.ucc.com.bd/) | Bilingual campaign site that reads invoices with OCR | Next.js, FastAPI |
 
-- 📫 How to reach me **ruhul20@gmail.com**
+More case studies are on [ruhul0.com](https://ruhul0.com).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ruhul0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ruhul0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ruhul0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruhul0" height="30" width="40" /></a>
-</p>
+## What I work with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><br> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/BJsbTkD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BJsbTkD" /></a></p><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruhul0&show_icons=true&locale=en&layout=compact" alt="ruhul0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhul0&show_icons=true&locale=en" alt="ruhul0" /></p>
+- **Stores and CMS:** WordPress, WooCommerce, OpenCart, headless setups
+- **Frontend:** JavaScript, React, Next.js, Tailwind CSS, GSAP
+- **Hosting and deployment:** Linux VPS, Nginx, Docker, GitHub Actions, Vercel, Kinsta, WP Engine
+- **Site quality:** Core Web Vitals, accessibility (WCAG/508), SEO, Google Tag Manager
